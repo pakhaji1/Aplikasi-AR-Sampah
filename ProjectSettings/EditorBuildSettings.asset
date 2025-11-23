@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Sampah.unity
+    guid: 59aa808f997017648858693c2172fed5
+  - enabled: 1
+    path: Assets/Scenes/Petunjuk.unity
+    guid: 2fa48655020ad524c94236c72e7beb6c
+  - enabled: 1
+    path: Assets/Scenes/Keluar.unity
+    guid: 65a0e0d5b2b786f43bf483823f44baa7
+  - enabled: 1
+    path: Assets/Scenes/SampahOrganik.unity
+    guid: a7bc22c6591c9af4bbd059f14545e67f
+  - enabled: 1
+    path: Assets/Scenes/SampahDaun.unity
+    guid: 5c936f5102a90a64eb483cb85a05ec33
+  - enabled: 1
+    path: Assets/Scenes/SampahStik.unity
+    guid: 7838eac9fd2a2794a8e569123ae6cdac
+  - enabled: 1
+    path: Assets/Scenes/SampahKulit.unity
+    guid: a7b1b21ae0dc82e45b0b59b937e11afb
+  - enabled: 1
+    path: Assets/Scenes/SampahCangkang.unity
+    guid: f74c1071897d02344924e43fb56b4eac
+  - enabled: 1
+    path: Assets/Scenes/SampahAnorganik.unity
+    guid: 2e1ba725d483f864f9eaa05049d85a64
+  - enabled: 1
+    path: Assets/Scenes/SampahBola.unity
+    guid: 9d2e96c97f84725458ed638b5456ced2
+  - enabled: 1
+    path: Assets/Scenes/SampahBotol.unity
+    guid: f5f457ee9a26b274e888d5f4a09dbbcd
+  - enabled: 1
+    path: Assets/Scenes/SampahKardus.unity
+    guid: 224f21b243738054cb31f4bd4cc2ee87
+  - enabled: 1
+    path: Assets/Scenes/SampahSedotan.unity
+    guid: acfd1a4d6283f4a48b986896e2b3ff3e
+  - enabled: 1
+    path: Assets/Scenes/ScanAR.unity
+    guid: 85d593986581af443a60884127bb46bb
+  - enabled: 1
+    path: Assets/Scenes/KreasiBola.unity
+    guid: be63d3084fa32ef4fa0ec03404d88ced
+  - enabled: 1
+    path: Assets/Scenes/KreasiStik.unity
+    guid: 92036555100552142b735424775c2367
+  - enabled: 1
+    path: Assets/Scenes/KreasiSedotan.unity
+    guid: 7fa6028874887934d887307b250e6b72
+  - enabled: 1
+    path: Assets/Scenes/KreasiKulit.unity
+    guid: b9fcbb1d0d020c7469d601ed2b1acbc3
+  - enabled: 1
+    path: Assets/Scenes/KreasiKardus.unity
+    guid: 6ec6d4925d7e26d4aa1993e2ee841550
+  - enabled: 1
+    path: Assets/Scenes/KreasiDaun.unity
+    guid: 0648ed66e0825e34a9ec625bc560d8af
+  - enabled: 1
+    path: Assets/Scenes/KreasiCangkang.unity
+    guid: a7230961543e3d840bcb00f626c8c588
+  - enabled: 1
+    path: Assets/Scenes/KreasiBotol.unity
+    guid: b1ed183a2b82e3044ad1b46d4478171f
+  m_configObjects:
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000, guid: ad51aaadd88b0c9448c0cfe28312d9c3, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 84229c5d892a5fb4d81c29cd6962d861, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: 51aa943877dadb54a82500dfd401bfaa, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 9c8f8d09c482a48479349c6b76beb10a, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0

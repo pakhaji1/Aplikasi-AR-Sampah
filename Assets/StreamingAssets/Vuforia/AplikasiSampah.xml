@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="markerstikeskrim" size="1.000000 1.000000" />
+    <ImageTarget name="markersedotan" size="1.000000 1.000000" />
+    <ImageTarget name="markerkulitbuah" size="1.000000 1.000000" />
+    <ImageTarget name="markerkardus" size="1.000000 1.000000" />
+    <ImageTarget name="markerdaun" size="1.000000 1.000000" />
+    <ImageTarget name="markercangkangtelur" size="1.000000 1.000000" />
+    <ImageTarget name="markerbotolplastik" size="1.000000 1.000000" />
+    <ImageTarget name="markerbolaplastik" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
