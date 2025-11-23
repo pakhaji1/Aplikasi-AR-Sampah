@@ -33,7 +33,7 @@ Program Studi Informatika, Universitas Mulawarman.
 - **Unity Engine** (versi 2021+)
 - **Vuforia Engine** (untuk deteksi image target)
 - **C#** (pemrograman logika aplikasi)
-- **Flipbook cetak** sebagai trigger AR
+- **Flipbook** sebagai trigger AR (https://heyzine.com/flip-book/f1b406a817.html)
 
 ---
 
@@ -47,7 +47,7 @@ Program Studi Informatika, Universitas Mulawarman.
      - **Scope**: 
 3. Masukkan **Vuforia License Key** di:
    - 
-4. Build ke perangkat Android/iOS
+4. Build ke perangkat Android
 
 > Catatan: File Vuforia Engine () **tidak disertakan** karena ukurannya besar. Silakan instal ulang via Package Manager.
 
@@ -58,12 +58,6 @@ Program Studi Informatika, Universitas Mulawarman.
 -  → Gambar marker AR
 -  → Database target Vuforia (, )
 -  → Konfigurasi Vuforia
-
----
-
-## 📚 Referensi Penelitian
-Proyek ini mendukung penelitian tentang:
-> "Pemanfaatan Augmented Reality dalam Pendidikan Lingkungan untuk Siswa Sekolah Dasar"
 
 ---
 
