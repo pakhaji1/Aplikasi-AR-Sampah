@@ -41,13 +41,9 @@ Program Studi Informatika, Universitas Mulawarman.
 1. Buka proyek ini di **Unity Hub** (pastikan versi Unity sesuai)
 2. Tambahkan **Vuforia Engine** melalui Package Manager:
    - Buka **Edit > Project Settings > Package Manager**
-   - Tambahkan scoped registry:
-     - **Name**: Vuforia Engine  
-     - **URL**:   
-     - **Scope**: 
-3. Masukkan **Vuforia License Key** di:
+3. Masukkan **Vuforia License Key**
    - 
-4. Build ke perangkat Android
+4. **Build ke perangkat Android**
 
 > Catatan: File Vuforia Engine () **tidak disertakan** karena ukurannya besar. Silakan instal ulang via Package Manager.
 
@@ -62,7 +58,7 @@ Program Studi Informatika, Universitas Mulawarman.
 ---
 
 ## 📄 Lisensi
-Proyek ini bersifat **akademik dan edukatif**.  
+Proyek ini bersifat **pembelajaran edukatif**.  
 Silakan gunakan untuk keperluan pembelajaran dengan mencantumkan sumber.
 
 © 2025 Muhammad Rizeky Rahmatullah — Universitas Mulawarman
